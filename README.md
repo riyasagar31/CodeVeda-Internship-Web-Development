@@ -1,4 +1,4 @@
-# CodeVeda-Internship-Web-Development
+# Codveda-Internship-Web-Development
 
 Task 1: Build a Simple Static Website
 * Description: Create a basic static website with multiple
